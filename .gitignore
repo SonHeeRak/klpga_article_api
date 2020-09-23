@@ -1,0 +1,10 @@
+__pycache__/
+
+.idea/*
+venv/*
+Log/*
+
+*.log
+*.pickle
+
+config.py
